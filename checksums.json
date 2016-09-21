@@ -1,0 +1,16 @@
+{
+  "Gemfile": "9a1ee9dafa8272a68978cf89370922f3",
+  "Modulefile": "f4f9e21d76dfa57f33f030b2a0fd29ed",
+  "README.md": "e5646cb68a06644da36c4db0f3329670",
+  "Rakefile": "0254db5d3fc38c67a2c160d7296a24f8",
+  "manifests/apt.pp": "c6e9f6b2caa557df69b48280bf3bb9af",
+  "manifests/config.pp": "fbd4de023171d9046b70a3fe3bd7b8df",
+  "manifests/init.pp": "318e9080181685fc552e8b770ef85348",
+  "manifests/install.pp": "1a538d3e20508f715fcead1669cf5f78",
+  "manifests/service.pp": "2f4407c4e91cd8bd90c189331e469ea9",
+  "manifests/yum.pp": "38244e099f6dcb2c4097539333a86be3",
+  "metadata.json": "bbb0a5a3b25744d90ec12f14f7c47898",
+  "spec/classes/cloudpassage_spec.rb": "58ee0b5b59330cf25406851f5420af0e",
+  "spec/spec_helper.rb": "b2db3bc02b4ac2fd5142a6621c641b07",
+  "templates/cloudpassage.list.erb": "6191c29d3eea0a9c0a0bbbb486ad3bbc"
+}

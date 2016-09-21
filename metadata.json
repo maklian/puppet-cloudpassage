@@ -1,0 +1,33 @@
+{
+  "name": "puppet-cloudpassage",
+  "version": "1.0.1",
+  "author": "maklian",
+  "summary": "A puppet module for managing Cloudpassage Halo",
+  "license": "Apache-2.0",
+  "source": "https://github.com/maklian/puppet-cloudpassage",
+  "project_page": "https://github.com/maklian/puppet-cloudpassage",
+  "issues_url": "https://github.com/maklian/puppet-cloudpassage/issues",
+  "dependencies": [
+  
+  ],
+  "data_provider": "hiera",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5.0",
+        "6.0",
+        "7.0"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04",
+        "10.04",
+        "14.04",
+        "15.04"
+      ]
+    }
+  ]
+}
